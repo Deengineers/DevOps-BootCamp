@@ -1,0 +1,5 @@
+*.xslx
+
+*.tfstate
+
+*.pem
